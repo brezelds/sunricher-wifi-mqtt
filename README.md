@@ -193,3 +193,4 @@ You might want to use the LAN interface only and turn off WiFi in order to save 
 
 The file [sunricher.items](/openhab/sunricher.items) provides an example setup.
 You need a [transformation file](/openhab/sunricherrgbw.js).
+ 
